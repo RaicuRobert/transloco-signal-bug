@@ -1,0 +1,6 @@
+{
+  "property-greeting": "Missing value for 'property-greeting'",
+  "inline-string-greeting": "Missing value for 'inline-string-greeting'",
+  "inline-signal-greeting": "Missing value for 'inline-signal-greeting'",
+  "inline-observable-async-pipe-greeting": "Missing value for 'inline-observable-async-pipe-greeting'"
+}
